@@ -1,1 +1,7 @@
-# admin-dashboard
+# Admin Dashboard
+
+## Introduction
+
+## Topics covered
+
+## Conclusion
